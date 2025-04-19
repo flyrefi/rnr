@@ -3,7 +3,7 @@ layout: default
 title: "Enemies: HP"
 parent: SRD
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 # Enemies: HP
 ## 1. Human

@@ -3,7 +3,7 @@ layout: default
 title: Progression
 parent: SRD
 has_children: false
-nav_order: 6
+nav_order: 4
 ---
 # Progression
 
