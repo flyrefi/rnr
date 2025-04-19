@@ -11,11 +11,12 @@ nav_order: 3
 
 First, the Game Master (GM) describes your situation; second, you describe what action you take; third, the GM describes what happens. Repeat. If the action you want to take is risky, the GM establishes the stakes and sets a target number based on the difficulty and whether you have a relevant scar or skill.
 
-|        | Scarred | Standard | Skilled |
-|--------|---------|----------|---------|
-| Easy   | 8+      | 6+       | 4+      |
-| Normal | 10+     | 8+       | 6+      |
-| Hard   | 12+     | 10+      | 8+      |
+| H1     | H2      | H3       | H4      |
+| ------ | ------- | -------- | ------- |
+|        | **Scarred** | **Standard** | **Skilled** |
+| **Easy**   | 8+      | 6+       | 4+      |
+| **Normal** | 10+     | 8+       | 6+      |
+| **Hard**   | 12+     | 10+      | 8+      |
 
 To commit to your action, roll 2d6 (two six-sided dice). If the total result is greater than or equal to the target number, you succeed; otherwise, you fail.
 
